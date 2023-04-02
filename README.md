@@ -1,4 +1,4 @@
-# Jerry Satpathy 👨‍💻
+# J3rry320 👨‍💻
 
 ![Banner Image](https://media.licdn.com/dms/image/C5116AQHwy15PaXkPRw/profile-displaybackgroundimage-shrink_350_1400/0/1557428553398?e=1686182400&v=beta&t=t7YXLCUzt7TNhcWwt45i7cCMQGfFEzl-wHyXnC8qW24)
 
