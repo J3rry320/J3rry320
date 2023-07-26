@@ -29,7 +29,7 @@ Feel free to check out my repositories and drop a ⭐ if you find something inte
 
 ----------
 
-⚡ Fun fact: I love playing video games and exploring new technologies. When I'm not coding, you can find me hiking or experimenting with photography.
+⚡ Fun fact: I love playing video games and exploring new technologies. When I'm not coding, you can find me biking playing video games or experimenting with photography.
 
 
 
