@@ -7,8 +7,8 @@ Hello there! 👋 My name is Rutuparna Satpathy, and I am a full-stack TypeScrip
 ## 🛠 My Technical Skill Set
 
 -   **Languages**: TypeScript, JavaScript, HTML, CSS, Python
--   **Frontend**: React, Redux, Vue.js,  Next.js, Gatsby, Webpack, Parcel
--   **Backend**: Node.js, Express, GraphQL, NestJS
+-   **Frontend**: React, Redux, Vue.js,  Next.js, Webpack, Parcel
+-   **Backend**: Node.js, Express, GraphQL
 -   **Databases**: MongoDB, PostgreSQL, MySQL, Redis
 -   **Cloud & DevOps**: AWS, Linux Sys Admin, GCP, Docker,  CI/CD
 -   **Testing**: Jest, Enzyme
