@@ -18,7 +18,7 @@ Hello there! 👋 My name is Rutuparna Satpathy, and I am a full-stack TypeScrip
 ## 🌐 Find Me Online
 -   **LinkedIn**: [linkedin.com/in/jerrythejsguy](https://linkedin.com/in/jerrythejsguy)
 -   **Twitter**: [@much_wow_1](https://twitter.com/much_wow_1)
--   **Medium**: [medium.com/@th3g3ntl3man](https://medium.com/@th3g3ntl3man)
+-   **Dev.to**: [https://dev.to/j3rry320/](https://dev.to/j3rry320/)
 -   **Email**: [rutu.satpathy44@gmail,com](mailto:rutu.satpathy44@gmail,com)
 
 ## 📈 GitHub Stats
